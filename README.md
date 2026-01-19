@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @MjTuplano18
-- 👀 I’m interested in watching anime and playing sports like basketball and badminton.I also like to play online games such as Mobile Legends and Clash of Clans.
-- 🌱 I’m currently learning C sharp.
-- 💞️ I’m looking to collaborate on enhancing my programming skills.
-- 📫 How to reach me ? I have my social media accounts in my profile, just add or follow me.
+# 👋 Hi, I'm MJ Tuplano
 
-<!---
-MjTuplano18/MjTuplano18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **BS Information Technology Student**  
+💻 **Aspiring IT Professional | OJT Seeker**
+
+---
+
+## 👀 About Me
+I’m a BSIT student who is still learning and improving my skills step by step. I enjoy experimenting with code, often using AI-assisted tools to help me understand concepts better. I’m eager to gain real-world experience through collaboration and On-the-Job Training (OJT).
+
+Outside of tech, I enjoy:
+- Watching anime
+- Playing basketball and badminton
+- Playing online games like **Mobile Legends** and **Clash of Clans**
+
+---
+
+## 🌱 Currently Learning
+- **Python**
+- Programming fundamentals
+- AI-assisted coding for learning and experimentation
+
+---
+
+## 💞️ What I’m Looking For
+- Opportunities to **improve my programming skills**
+- Collaboration on **beginner-friendly projects**
+- **On-the-Job Training (OJT)** or internship opportunities in IT
+
+---
+
+## 📫 How to Reach Me
+📧 **Email:** je875772@gmail.com  
+🔗 Social media accounts are available on my GitHub profile — feel free to connect!
+
+---
+
+⭐ *Still learning, always improving.*
