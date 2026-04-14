@@ -55,11 +55,7 @@ Outside of tech, I enjoy:
 
 ---
 
-## 💼 What I'm Looking For
 
-- OJT or internship opportunities in web or backend development
-- Beginner-friendly open source collaboration
-- Real-world projects to apply and improve my skills
 
 ---
 
