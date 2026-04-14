@@ -1,38 +1,6 @@
-# 👋 Hi, I'm MJ Tuplano
-
-🎓 **BS Information Technology Student**  
-💻 **Aspiring IT Professional | OJT Seeker**
-
----
-
-## 👀 About Me
-I’m a BSIT student who is still learning and improving my skills step by step. I enjoy experimenting with code, often using AI-assisted tools to help me understand concepts better. I’m eager to gain real-world experience through collaboration and On-the-Job Training (OJT).
-
-Outside of tech, I enjoy:
-- Watching anime
-- Playing basketball and badminton
-- Playing online games like **Mobile Legends** and **Clash of Clans**
-
----
-
-## 🌱 Currently Learning
-- **Python**
-- Programming fundamentals
-- AI-assisted coding for learning and experimentation
-
----
-
-## 💞️ What I’m Looking For
-- Opportunities to **improve my programming skills**
-- Collaboration on **beginner-friendly projects**
-- **On-the-Job Training (OJT)** or internship opportunities in IT
-
----
-
-## 📫 How to Reach Me
-📧 **Email:** je875772@gmail.com  
-🔗 Social media accounts are available on my GitHub profile — feel free to connect!
-
----
-
-⭐ *Still learning, always improving.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
