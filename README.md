@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer (Trainee)</b><br/>
-  BSIT Student · Currently an Intern
+  BSIT Student · Currently a Data Analyst and Fullstack Developer Intern
 </p>
 
 ---
