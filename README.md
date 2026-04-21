@@ -34,7 +34,7 @@
   <br><br>
    Currently working as a <strong>Data Analyst and Fullstack Developer Intern</strong>
   <br>
-  🔭 Contributing to web application and system development
+   Contributing to web application and system development
   <br>
    Continuously learning through real-world systems and projects
   <br>
