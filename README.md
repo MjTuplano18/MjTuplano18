@@ -32,23 +32,23 @@
 <p align="center">
   Hi, I'm <strong>MJ Tuplano</strong>, a BSIT Student and Full Stack Developer Intern from the Philippines 🇵🇭
   <br><br>
-  💼 Currently working as a <strong>Data Analyst and Fullstack Developer Intern</strong>
+   Currently working as a <strong>Data Analyst and Fullstack Developer Intern</strong>
   <br>
   🔭 Contributing to web application and system development
   <br>
-  🌱 Continuously learning through real-world systems and projects
+   Continuously learning through real-world systems and projects
   <br>
-  ⚡ Development approach: AI-assisted coding with a strong focus on understanding
+   Development approach: AI-assisted coding with a strong focus on understanding
   <br>
-  🛠️ Passionate about clean and structured API development
+   Passionate about clean and structured API development
   <br>
-  🐍 Backend: Python · FastAPI · Django
+   Backend: Python · FastAPI · Django
   <br>
-  🌐 Frontend: Next.js · React · TypeScript
+   Frontend: Next.js · React · TypeScript
   <br>
-  🗄️ Databases: MySQL · PostgreSQL · Supabase
+   Databases: MySQL · PostgreSQL · Supabase
   <br>
-  ☁️ Backend/Cloud: Firebase
+   Backend/Cloud: Firebase
 </p>
 
 <hr>
