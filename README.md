@@ -60,7 +60,7 @@
   <tr>
     <td valign="top" width="50%">
 
-** Intern Developer**
+ Intern Developer
 - Contributing to web application and system development
 - Assisting in API development and backend logic
 - Debugging, testing, and improving features
@@ -70,7 +70,7 @@
 </td>
     <td valign="top" width="50%">
 
-** Development Approach**
+ Development Approach
 - AI-assisted coding with strong focus on understanding
 - Clean and structured API development
 - Continuous learning through real-world systems
