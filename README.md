@@ -33,8 +33,8 @@
   <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
   <code><img title="Canva" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></code>
   <code><img title="Vercel" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"></code>
-  <code><img title="Railway" height="25" src="https://img.icons8.com/color/48/railway.png"></code>
-  <code><img title="Render" height="25" src="https://img.icons8.com/color/48/render.png"></code>
+  <code><img title="Railway" height="25" src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"></code>
+  <code><img title="Render" height="25" src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white"></code>
 </p>
 
 <hr>
