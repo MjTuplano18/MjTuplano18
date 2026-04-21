@@ -52,25 +52,32 @@
 
 <hr>
 
-<h2 align="center">💼 Experience 💼</h2>
+<h2 align="center">💼 Experience &nbsp;|&nbsp; ⚡ Development Approach</h2>
 <br>
 
-**Intern Developer**
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+
+**💼 Intern Developer**
 - Contributing to web application and system development
 - Assisting in API development and backend logic
 - Debugging, testing, and improving features
 - Collaborating with team members on development tasks
 - Data analysis and reporting
 
-<hr>
+</td>
+    <td valign="top" width="50%">
 
-<h2 align="center">⚡ Development Approach ⚡</h2>
-<br>
-
+**⚡ Development Approach**
 - AI-assisted coding with strong focus on understanding
 - Clean and structured API development
 - Continuous learning through real-world systems
 - Practical problem-solving and debugging
+
+</td>
+  </tr>
+</table>
 
 <hr>
 
