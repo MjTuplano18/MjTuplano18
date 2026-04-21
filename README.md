@@ -1,7 +1,7 @@
 <h1 align="center">MJ Tuplano</h1>
 
 <p align="center">
-  <b>Full Stack Developer (Trainee)</b><br/>
+  <b>Full Stack Developer (Intern)</b><br/>
   BSIT Student · Currently a Data Analyst and Fullstack Developer Intern
 </p>
 
