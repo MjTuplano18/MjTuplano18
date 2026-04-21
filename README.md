@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+<h2 align="center"> Tech Stack </h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<h2 align="center">About Me </h2>
 <br>
 <p align="center">
   Hi, I'm <strong>MJ Tuplano</strong>, a BSIT Student and Full Stack Developer Intern from the Philippines 🇵🇭
