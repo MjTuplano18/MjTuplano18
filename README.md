@@ -22,6 +22,19 @@
   <code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Firebase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
+  <code><img title="Supabase" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></code>
+  <code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+  <code><img title="C#" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="VS Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="Visual Studio" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
+  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img title="Canva" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></code>
+  <code><img title="Vercel" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"></code>
+  <code><img title="Railway" height="25" src="https://img.icons8.com/color/48/railway.png"></code>
+  <code><img title="Render" height="25" src="https://img.icons8.com/color/48/render.png"></code>
 </p>
 
 <hr>
@@ -43,9 +56,11 @@
   <br>
   🐍 Backend: Python · FastAPI · Django
   <br>
-  🌐 Frontend: Next.js · TypeScript
+  🌐 Frontend: Next.js · React · TypeScript
   <br>
-  🗄️ Databases: MySQL · PostgreSQL
+  🗄️ Databases: MySQL · PostgreSQL · Supabase
+  <br>
+  ☁️ Backend/Cloud: Firebase
 </p>
 
 <hr>
